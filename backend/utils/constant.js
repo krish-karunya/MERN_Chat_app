@@ -1,0 +1,2 @@
+export const MALE_URL = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSefW2T8BGhHrcrEOgGMOMpKgBKMahj9ClYDQ&s'
+export const FEMALE_URL = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTCf9j-rBHV6o3fB4jPUzqnD878ZclZlZW0UfOYzAYrBugAGyjdNVrPdBdcvQg1qzDlaI&usqp=CAU'
